@@ -1,0 +1,230 @@
+{
+  "project_info": {
+    "project_number": "597486390604",
+    "firebase_url": "https://turuta-757ba.firebaseio.com",
+    "project_id": "turuta-757ba",
+    "storage_bucket": "turuta-757ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597486390604:android:b1ffb6d753ccdc9e6793e9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_map_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597486390604-gvbko0l1un9gc2nfncj8a2l0m5fc9s3g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_map_booking",
+            "certificate_hash": "4e3bdc35a544db7a18f9c124b1855dc29048f194"
+          }
+        },
+        {
+          "client_id": "597486390604-12mm9s97pu9agtruk302ulupcad08sfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0948oszuL5c01j_4HJRnc8Co6RUL557I"
+        },
+        {
+          "current_key": "AIzaSyBa_tV-fp30lXWsiIDwMeDhbd61nHo5uuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597486390604-12mm9s97pu9agtruk302ulupcad08sfr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597486390604-6q2qfen7v4n80rffmndb8pp43m9840cu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.turuta.pe"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597486390604:android:306a1144d688012b6793e9",
+        "android_client_info": {
+          "package_name": "com.example.mi_ruta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597486390604-12mm9s97pu9agtruk302ulupcad08sfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0948oszuL5c01j_4HJRnc8Co6RUL557I"
+        },
+        {
+          "current_key": "AIzaSyBa_tV-fp30lXWsiIDwMeDhbd61nHo5uuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597486390604-12mm9s97pu9agtruk302ulupcad08sfr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597486390604-6q2qfen7v4n80rffmndb8pp43m9840cu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.turuta.pe"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597486390604:android:27d362196c6471ea6793e9",
+        "android_client_info": {
+          "package_name": "com.example.miruta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597486390604-2r83gaei3o7kk1ncjd8olbnj1714uqer.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miruta",
+            "certificate_hash": "23ee211aaac166e5b9d634c286ea0ba32c80a7fc"
+          }
+        },
+        {
+          "client_id": "597486390604-12mm9s97pu9agtruk302ulupcad08sfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0948oszuL5c01j_4HJRnc8Co6RUL557I"
+        },
+        {
+          "current_key": "AIzaSyBa_tV-fp30lXWsiIDwMeDhbd61nHo5uuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597486390604-12mm9s97pu9agtruk302ulupcad08sfr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597486390604-6q2qfen7v4n80rffmndb8pp43m9840cu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.turuta.pe"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597486390604:android:897864f459cb182b6793e9",
+        "android_client_info": {
+          "package_name": "com.example.taxi_trujillo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597486390604-12mm9s97pu9agtruk302ulupcad08sfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0948oszuL5c01j_4HJRnc8Co6RUL557I"
+        },
+        {
+          "current_key": "AIzaSyBa_tV-fp30lXWsiIDwMeDhbd61nHo5uuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597486390604-12mm9s97pu9agtruk302ulupcad08sfr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597486390604-6q2qfen7v4n80rffmndb8pp43m9840cu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.turuta.pe"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597486390604:android:014f1669553c9ca76793e9",
+        "android_client_info": {
+          "package_name": "com.hadtech.mirutaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597486390604-28j61pb0ju9d69o0t29mbor18joadqig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hadtech.mirutaapp",
+            "certificate_hash": "8a3ff9c854274561f827998e60c11ae909dc1518"
+          }
+        },
+        {
+          "client_id": "597486390604-12mm9s97pu9agtruk302ulupcad08sfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0948oszuL5c01j_4HJRnc8Co6RUL557I"
+        },
+        {
+          "current_key": "AIzaSyBa_tV-fp30lXWsiIDwMeDhbd61nHo5uuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597486390604-12mm9s97pu9agtruk302ulupcad08sfr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597486390604-6q2qfen7v4n80rffmndb8pp43m9840cu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.turuta.pe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
